@@ -7,13 +7,6 @@ A sleek, responsive, and modern **Stopwatch Web Application** built with **HTML*
 ## 🚀 Live Demo
 https://neerajteja17.github.io/STOPWATCH-WEB-APPLICATION/
 
-
----
-
-## 🖥️ Project Preview
-
-![Stopwatch Preview](https://via.placeholder.com/800x400?text=Stopwatch+Web+App+Preview)
-
 ---
 
 ## ✨ Features
